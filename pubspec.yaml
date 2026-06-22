@@ -27,7 +27,7 @@ dependencies:
   realtimekit_core_platform_interface: ^0.1.6
   realtimekit_core_android:
     git:
-      ref: fluency/v2
+      ref: fluency/v3
       url: https://github.com/Nadii7/updated_realtimekit_core_android.git
   realtimekit_core_ios:
     git:
