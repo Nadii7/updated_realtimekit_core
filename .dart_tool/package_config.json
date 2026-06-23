@@ -147,13 +147,13 @@
     },
     {
       "name": "realtimekit_core_android",
-      "rootUri": "file:///Users/nadii7/.pub-cache/hosted/pub.dev/realtimekit_core_android-0.1.6",
+      "rootUri": "file:///Users/nadii7/.pub-cache/hosted/pub.dev/realtimekit_core_android-0.1.4",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     },
     {
       "name": "realtimekit_core_ios",
-      "rootUri": "file:///Users/nadii7/.pub-cache/hosted/pub.dev/realtimekit_core_ios-0.1.6",
+      "rootUri": "file:///Users/nadii7/.pub-cache/git/updated_realtimekit_core_ios-e3dc639d8b39e72d1f5f9ac040c0a07e302fa470/",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     },
