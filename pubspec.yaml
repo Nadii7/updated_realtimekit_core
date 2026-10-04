@@ -5,7 +5,7 @@ description: Realtimekit Core SDK
 homepage: https://docs.realtime.cloudflare.com/flutter-core
 
 environment:
-  sdk: ^3.6.0
+  sdk: ">=3.8.0 <4.0.0"
   flutter: ">=3.0.0"
 
 flutter:
@@ -31,7 +31,7 @@ dependencies:
       url: https://github.com/Nadii7/realtimekit_core_android.git
   realtimekit_core_ios:
     git:
-      ref: main
+      ref: fluency/v1/1.0.0
       url: https://github.com/Nadii7/updated_realtimekit_core_ios.git
 
 dev_dependencies:
