@@ -31,7 +31,7 @@ dependencies:
       url: https://github.com/Nadii7/realtimekit_core_android.git
   realtimekit_core_ios:
     git:
-      ref: fluency/v1/1.0.0
+      ref: fluency/v2/1.0.0
       url: https://github.com/Nadii7/updated_realtimekit_core_ios.git
 
 dev_dependencies:
