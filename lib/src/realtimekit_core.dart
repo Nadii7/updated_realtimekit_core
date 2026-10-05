@@ -211,9 +211,9 @@ class RealtimekitClient {
     await _platform.cleanNativeStageEventListener();
   }
 
-  /// Used to clean all native listeners. Always call this method at the last of your app lifecycle after you have unregistered realtimekit related flutter side listeners.
-  void cleanAllNativeListeners() {
-    _platform.cleanAllNativeListeners();
+  /// Cleans all native listeners after unregistering RealtimeKit Flutter-side listeners.
+  Future<void> cleanAllNativeListeners() async {
+    await _platform.cleanAllNativeListeners();
   }
 
   void setSdkInfo(String sdkName, String version) {

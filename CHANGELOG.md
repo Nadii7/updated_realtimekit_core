@@ -1,5 +1,7 @@
 ## 0.1.6
 
+ - **FIX**: return the native listener cleanup future from RealtimekitClient.
+
  - **FEAT**: bump version (#132).
  - **FEAT**: bump version".
  - **FEAT**: bump version.
